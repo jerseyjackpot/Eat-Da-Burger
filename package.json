@@ -2,7 +2,7 @@
   "name": "eat-da-burger",
   "version": "1.0.0",
   "description": "Burger Logger made with MySQL, Node, Express, Handlebars, and a homemade ORM (Using the MVC design pattern).",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "test": "node server.js"
   },
