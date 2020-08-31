@@ -8,6 +8,10 @@
 a burger logger with MySQL, Node, Express, Handlebars and a homemade ORM (yum!)
 
 ## Screenshots and Heroku Link
+https://github.com/jerseyjackpot/Eat-Da-Burger/blob/master/public/assets/css/img/Screen%20Shot%202020-08-31%20at%202.33.29%20AM.png
+
+Heroku deployment here :
+https://agile-lake-35945.herokuapp.com/
 
 
 ## Table of Contents 
