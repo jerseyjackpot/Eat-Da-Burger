@@ -4,7 +4,7 @@
   "description": "Burger Logger made with MySQL, Node, Express, Handlebars, and a homemade ORM (Using the MVC design pattern).",
   "main": "index.js",
   "scripts": {
-    "test": "node inex.js"
+    "test": "node server.js"
   },
   "repository": {
     "type": "git",
@@ -21,8 +21,10 @@
   },
   "homepage": "https://github.com/jerseyjackpot/Eat-Da-Burger#readme",
   "dependencies": {
+    "dotenv": "^8.2.0",
     "express": "^4.17.1",
     "express-handlebars": "^5.1.0",
+    "handlebars": "^4.7.6",
     "mysql": "^2.18.1"
   }
 }
